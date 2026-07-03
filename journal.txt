@@ -1,0 +1,93 @@
+Ahmed El Harrak : 2026-04-05, HEAD -> main, origin/main, Ajout de l'image des règles
+Ahmed El Harrak : 2026-04-05, , Ajout de la page des règles en chemin
+Ahmed El Harrak : 2026-04-05, , Merge branch 'main' of https://github.com/AhmedElharrak/Projet-Scrabble
+LaLegende : 2026-04-05, , Ajustement de certaines règles, interfaces et plus
+Malek549 : 2026-03-30, , Clarify usage instructions in client.py
+Ahmed El Harrak : 2026-03-30, , Ajout du journal de commit
+Ahmed El Harrak : 2026-03-30, , Ajout du journal de commit
+msoumeillan : 2026-03-30, , rajout de partie et app (#18)
+msoumeillan : 2026-03-30, , rajout de partie et app (#18)
+Ahmed El Harrak : 2026-03-30, , Merge branch 'main' of https://github.com/AhmedElharrak/Projet-Scrabble
+Ahmed El Harrak : 2026-03-30, , Merge branch 'main' of https://github.com/AhmedElharrak/Projet-Scrabble
+Ahmed El Harrak : 2026-03-30, , Update README
+Ahmed El Harrak : 2026-03-30, , Update README
+Ahmed El Harrak : 2026-03-30, , Version finale de claculateur_score.py, joueur.py et dictionnaire.py
+Ahmed El Harrak : 2026-03-30, , Version finale de claculateur_score.py, joueur.py et dictionnaire.py
+Sriram : 2026-03-30, , Ajout du ficher rapport de projet (#17)
+Sriram : 2026-03-30, , Ajout du ficher rapport de projet (#17)
+Sriram : 2026-03-30, , ajout finale du game_controller (#16)
+Sriram : 2026-03-30, , ajout finale du game_controller (#16)
+Malek549 : 2026-03-30, , ajout des fichiers du réseaux  (#15)
+Malek549 : 2026-03-30, , ajout des fichiers du réseaux  (#15)
+AhmedElharrak : 2026-03-30, , Update README.md
+AhmedElharrak : 2026-03-30, , Update README.md
+AhmedElharrak : 2026-03-29, , Update README.md
+AhmedElharrak : 2026-03-29, , Update README.md
+AhmedElharrak : 2026-03-29, , Update and rename README.txt to README.md
+AhmedElharrak : 2026-03-29, , Update and rename README.txt to README.md
+Malek549 : 2026-03-29, , update du fichier calculateur (#14)
+Malek549 : 2026-03-29, , update du fichier calculateur (#14)
+AhmedElharrak : 2026-03-28, , Update joueur.py
+AhmedElharrak : 2026-03-28, , Update joueur.py
+Ahmed El Harrak : 2026-03-28, , Merge branch 'main' of https://github.com/AhmedElharrak/Projet-Scrabble
+Ahmed El Harrak : 2026-03-28, , Merge branch 'main' of https://github.com/AhmedElharrak/Projet-Scrabble
+Ahmed El Harrak : 2026-03-28, , Creation du joueur IA
+Ahmed El Harrak : 2026-03-28, , Creation du joueur IA
+Malek549 : 2026-03-27, , Ajout du app.py (#13)
+Malek549 : 2026-03-27, , Ajout du app.py (#13)
+Ahmed El Harrak : 2026-03-25, , Fonction de calcul du score d'un coup
+Ahmed El Harrak : 2026-03-25, , Fonction de calcul du score d'un coup
+Malek549 : 2026-03-25, , Ajout des fichiers .gitignore, bouton, element et game_view.
+Malek549 : 2026-03-25, , Ajout des fichiers .gitignore, bouton, element et game_view.
+msoumeillan : 2026-03-23, , Ajout reste partie (#11)
+msoumeillan : 2026-03-23, , Ajout reste partie (#11)
+Malek549 : 2026-03-23, , Restructuration des fichiers (#10)
+Ahmed El Harrak : 2026-03-23, , Résolution des conflits
+Ahmed El Harrak : 2026-03-23, , Résolution des conflits
+Sriram : 2026-03-22, , Update partie.py
+Sriram : 2026-03-22, , Update partie.py
+Sriram : 2026-03-22, , Update partie.py
+Sriram : 2026-03-22, , Update partie.py
+Sriram : 2026-03-22, , Update partie.py
+Sriram : 2026-03-22, , Update partie.py
+Sriram : 2026-03-22, , Update partie.py
+Sriram : 2026-03-22, , Update partie.py
+LaLegende : 2026-03-21, , Restructuration des fichiers
+LaLegende : 2026-03-21, , Restructuration des fichiers
+LaLegende : 2026-03-21, , Restructuration des fichiers
+LaLegende : 2026-03-21, , Restructuration des fichiers
+LaLegende : 2026-03-06, , Ajout fonction dans partie
+LaLegende : 2026-03-06, , Ajout fonction dans partie
+LaLegende : 2026-02-24, , Création des fichiers liés au dictionnaire ainsi qu'une documentation pour certains code
+LaLegende : 2026-02-24, , Création des fichiers liés au dictionnaire ainsi qu'une documentation pour certains code
+Malek549 : 2026-03-21, , Finalisation du ficier dictionnaire.py (#9)
+Malek549 : 2026-03-21, , Finalisation du ficier dictionnaire.py (#9)
+Malek549 : 2026-03-06, , Ajout fonction partie.py (#8)
+Malek549 : 2026-03-06, , Ajout fonction partie.py (#8)
+Malek549 : 2026-03-06, , Ajout du calculateur_score (#7)
+Malek549 : 2026-03-06, , Ajout du calculateur_score (#7)
+Malek549 : 2026-02-24, , Création des fichiers liés au dictionnaire ainsi qu'une documentation pour certains code (#6)
+Malek549 : 2026-02-24, , Création des fichiers liés au dictionnaire ainsi qu'une documentation pour certains code (#6)
+Ahmed El Harrak : 2026-02-08, , Changement du README pour préciser la nécessité d'avoir pygames
+Ahmed El Harrak : 2026-02-08, Malek549-main, Changement du README pour préciser la nécessité d'avoir pygames
+Ahmed El Harrak : 2026-02-08, , Changement de partie.py
+Ahmed El Harrak : 2026-02-08, , Changement de partie.py
+Malek549 : 2026-02-08, , Implémentation basique des classes joueur et partie
+Malek549 : 2026-02-08, , Implémentation basique des classes joueur et partie
+LaLegende : 2026-02-08, , Ajout des fichiers joueur.py et partie.py contenant leurs classes et leurs attributs.
+LaLegende : 2026-02-08, , Ajout des fichiers joueur.py et partie.py contenant leurs classes et leurs attributs.
+Ahmed El Harrak : 2026-02-04, , Ajout du nom et prénom dans le READ ME
+Ahmed El Harrak : 2026-02-04, , Ajout du nom et prénom dans le READ ME
+AhmedElharrak : 2026-02-04, , Merge pull request #4 from msoumeillan/msoumeillan-patch-1-1
+AhmedElharrak : 2026-02-04, , Merge pull request #4 from msoumeillan/msoumeillan-patch-1-1
+msoumeillan : 2026-02-04, , Update README.txt
+msoumeillan : 2026-02-04, , Update README.txt
+Sriram : 2026-02-04, , Merge pull request #3 from Sriram667/main
+Sriram : 2026-02-04, , Merge pull request #3 from Sriram667/main
+Sriram : 2026-02-04, , Update README.txt
+Sriram : 2026-02-04, , Update README.txt
+Malek549 : 2026-02-04, , Merge pull request #1 from Malek549/main
+Malek549 : 2026-02-04, , Merge pull request #1 from Malek549/main
+Malek549 : 2026-02-04, , Ajoute nom du participant au README.txt
+Malek549 : 2026-02-04, , Ajoute nom du participant au README.txt
+Ahmed El Harrak : 2026-02-04, , Creation du repo et du readme
