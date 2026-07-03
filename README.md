@@ -45,9 +45,3 @@ Pour jouer, se positionner sur le dossier principal et lancer le fichier main.py
 ```bash 
 python main.py   
 ```
-
-## 5. Crédits
-EL HARRAK Ahmed 2023 2903  
-BENGHEMINA Malek 2023 3347  
-POUVARADJE Sriram-Easwar 2023 1307  
-SOUMEILLAN Mattéo 2022 2878
