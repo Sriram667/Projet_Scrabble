@@ -52,6 +52,9 @@ python main.py
 
 ## 5. Crédits
 EL HARRAK Ahmed 
+
 BENGHEMINA Malek  
+
 POUVARADJE Sriram-Easwar
+
 SOUMEILLAN Mattéo
