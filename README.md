@@ -22,6 +22,10 @@ de terminer leur tour. Jouer les 7 lettres du chevalet d'un coup récompense le 
 
 La partie se termine quand le sac de lettre est **vide**, et le joueur ayant **le plus de point** gagne la partie.
 
+## Les règles en images
+![My Image](./assets/image/regles.png)
+
+
 ## 3. Modes de jeu 
 Notre projet implémente **3 modes de jeu** : 
 ### -Deux joueurs en local :
@@ -47,9 +51,7 @@ python main.py
 ```
 
 ## 5. Crédits
-
-EL HARRAK Ahmed
-
-BENGHEMINA Malek
-
+EL HARRAK Ahmed 
+BENGHEMINA Malek  
+POUVARADJE Sriram-Easwar
 SOUMEILLAN Mattéo
