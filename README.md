@@ -46,6 +46,8 @@ Pour jouer, se positionner sur le dossier principal et lancer le fichier main.py
 python main.py   
 ```
 
+## 5. Crédits
+
 EL HARRAK Ahmed
 BENGHEMINA Malek
 SOUMEILLAN Mattéo
